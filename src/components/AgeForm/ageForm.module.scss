@@ -1,0 +1,10 @@
+.group {
+	width: 500px;
+	background-color: antiquewhite;
+	form {
+		display: flex;
+		flex-direction: column;
+		gap: 30px;
+		padding: 16px;
+	}
+}

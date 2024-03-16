@@ -1,0 +1,12 @@
+.group {
+	width: 500px;
+	&__form {
+		display: flex;
+		flex-direction: column;
+		gap: 30px;
+		padding: 16px;
+		&__button {
+			width: auto;
+		}
+	}
+}
